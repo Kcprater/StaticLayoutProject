@@ -4,7 +4,7 @@
 }
 
 .top {
-    background-image: url("./assets/top.jpg");
+    background-image: url("./assets/top.JPG");
     background-size: contain;
     background-repeat: no-repeat;
     height: 507px;
@@ -12,7 +12,7 @@
 }
 
 .middle {
-    background-image: url("./assets/middle.jpg");
+    background-image: url("./assets/middle.JPG");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 148px;
@@ -20,7 +20,7 @@
 }
 
 .bottom {
-    background-image: url("./assets/bottom.jpg");
+    background-image: url("./assets/bottom.JPG");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 820px;
